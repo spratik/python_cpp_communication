@@ -26,6 +26,8 @@ std::string tensoflow_env = "C:\\\Users\\\PRATIK\\\anaconda3\\\envs\\\tensorflow
       <Tensorflow_env22>\Scripts
       <Tensorflow_env22>\Library\bin
     
-    
+ ## Python File
+ Below is sample.py python file location so this source code load sample.py file through CPP wrapper and try to execute python file.
+  python_cpp_communication/x64/Release/sample.py
 
 
