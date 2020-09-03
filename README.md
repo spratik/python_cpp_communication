@@ -2,7 +2,7 @@
 Call Python file through CPP wrapper
 
 Below is Path User need to change in pyCPP.cpp file order to run this source code.
-- in pyCPP.cpp file line number 12. User need to provide tensorflow 2.2 path. Note that User need to provide path in "\\\" format
+- in pyCPP.cpp file line number 12. User need to provide tensorflow 2.2 path. Note that User need to provide path in \\ format
 std::string tensoflow_env = "C:\\Users\\PRATIK\\anaconda3\\envs\\tensorflow_GPU\\"
 
  ## Common Configuration setting 
